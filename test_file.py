@@ -1,4 +1,3 @@
-########################
 """
 Something that will cause merge conflict
 """
